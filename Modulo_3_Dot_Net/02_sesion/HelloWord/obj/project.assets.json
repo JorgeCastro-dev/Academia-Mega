@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jcastron\\Documents\\GitHub\\Academia-Mega\\Modulo_3_Dot_Net\\01_sesion\\HelloWord\\HelloWord.csproj",
+      "projectUniqueName": "C:\\Users\\jcastron\\Desktop\\Curso Mega\\C#\\HelloWord\\HelloWord.csproj",
       "projectName": "HelloWord",
-      "projectPath": "C:\\Users\\jcastron\\Documents\\GitHub\\Academia-Mega\\Modulo_3_Dot_Net\\01_sesion\\HelloWord\\HelloWord.csproj",
+      "projectPath": "C:\\Users\\jcastron\\Desktop\\Curso Mega\\C#\\HelloWord\\HelloWord.csproj",
       "packagesPath": "C:\\Users\\jcastron\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jcastron\\Documents\\GitHub\\Academia-Mega\\Modulo_3_Dot_Net\\01_sesion\\HelloWord\\obj\\",
+      "outputPath": "C:\\Users\\jcastron\\Desktop\\Curso Mega\\C#\\HelloWord\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jcastron\\AppData\\Roaming\\NuGet\\NuGet.Config",
